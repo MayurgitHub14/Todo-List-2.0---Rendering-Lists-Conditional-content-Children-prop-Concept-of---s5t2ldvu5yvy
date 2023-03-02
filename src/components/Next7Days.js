@@ -20,3 +20,4 @@ const Next7Days = (props) => {
 };
 
 export default Next7Days;
+
