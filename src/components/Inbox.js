@@ -65,4 +65,4 @@ const Inbox = (props) => {
   );
 };
 
-export default Inbox;
+export default Inbox; 
