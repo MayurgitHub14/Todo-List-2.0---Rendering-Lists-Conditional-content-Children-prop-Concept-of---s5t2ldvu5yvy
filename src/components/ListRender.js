@@ -17,4 +17,6 @@ const ListRender = (props) => {
 };
 
 export default ListRender;
+// {list.date.toLocaleDateString()}
+
 
